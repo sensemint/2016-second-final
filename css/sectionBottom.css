@@ -1,0 +1,23 @@
+.sectionBottomTitle {
+  padding-left: 150px;
+}
+
+.bottomBox{
+    width: 750px;
+    height: 140px;
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+
+.bottomBox img{
+    float: left;
+    margin: 0 10px 10px 10px;
+    width: 220px;
+    height: 130px;
+}
+
+.listBoxContent h3{
+    color: #16B0F0;
+    font-size: 12px;
+    font-weight: bold;
+}

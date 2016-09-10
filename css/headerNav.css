@@ -1,0 +1,89 @@
+header{
+  background-color: #353535;
+}
+
+a{
+  text-decoration: none;
+}
+
+.headerName{
+  padding: 20px;
+}
+
+.mainTitle{
+  display: inline;
+}
+
+.mainTitle h1{
+  display: inline;
+  color: #48E50C;
+  font-size: 24px;
+}
+
+.mainTitle h1 span{
+  color: #ffffff;
+}
+
+.searchBox{
+  display: inline;
+}
+
+.searchBox input{
+  background-color: #353535;
+  width: 200px;
+  padding: 2px;
+  border: solid 3px #48F50C;
+}
+
+.searchBtn{
+   background-color: #44B402;
+   margin-top: -2px;
+   color: #ffffff;
+   font-size: 13px;
+   border: transparent;
+}
+
+.totalsearchBtn{
+  background-color: #383838;
+  color: #8A8A8A;
+  font-size:  13px;
+  border: solid 1px #323232;
+}
+
+.loginBox{
+  float: right;
+}
+
+.loginBtn{
+  background-color: #555555;
+  color: #E9E9EB;
+  border: solid 1px #454545;
+}
+
+.headerNav{
+  background-color: #2D2D2D;
+  padding-top: 6px
+  padding-bottom: 6px;
+  padding-left: 10px;
+
+}
+
+.headerNav ul{
+  margin-left: -50px;
+  margin-top:  -2px;
+}
+
+.headerNav ul li{
+  display: inline;
+  padding: 0 10px 5px 15px;
+
+  font-size: 17px;
+}
+
+.headerNav a{
+  color: #8C8C9C;
+}
+
+.headerNav a:active{   /*이거 머할때 씀*/
+  color: #ffffff;
+}

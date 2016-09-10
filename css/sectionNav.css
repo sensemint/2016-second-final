@@ -1,0 +1,21 @@
+.sectionTitle{
+  padding-top: -50px;
+}
+
+.sectionNav{
+    padding: 20px 50px;
+    border-top: solid 3px ;
+    border-bottom: solid 1px;
+
+}
+
+.sectionNav ul{
+    display: inline;
+}
+
+.sectionNav ul li{
+    display: inline;
+    padding: 20px 50px 20px 30px;
+    border-right: solid 1px;
+
+}

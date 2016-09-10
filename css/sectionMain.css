@@ -1,0 +1,83 @@
+section h2{
+  padding: 0px 100px 0 180px;
+  font-size: 20px;
+}
+
+
+.sectionMain{
+    background-color: #EDEDF0;
+    padding-top: 20px;
+    padding-left: 180px;
+    height: 400px;
+}
+
+.sectionMain h3{
+    display: inline;
+    padding-left: 20px;
+    font-size: 25px;
+}
+
+
+
+/*  여기부터 carusel. */
+
+.carouselContents{
+    height: 350px;
+    width: 1170px;
+    overflow: hidden;
+}
+
+.carouselBlock{
+    width: 3000px;
+}
+
+
+
+/*  여기까지 */
+
+.cardView{
+    display: inline-block;
+    margin: 10px 80px 20px -20px;
+}
+
+.cardView img{
+    width: 230px;
+    height: 160px;
+}
+
+.cardViewContent{
+    background-color: #fff;
+    padding: 20px;
+    margin-top: -30px;
+    width: 190px;
+    height: 100px;
+}
+
+.cardViewContent h4{
+    padding: 5px 5px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.cardViewContent h5{
+    padding: 7px 3px 0px;
+    font-size: 12px;
+}
+
+
+
+.carouselLeftBtn{
+    position: absolute;
+    top: 350px;
+    left: 150px;
+    z-index: 9990;
+    cursor: pointer;
+}
+
+.carouselRightBtn{
+    position: absolute;
+    top: 350px;
+    left: 1360px;
+    z-index: 9990;
+    cursor: pointer;
+}

@@ -1,0 +1,36 @@
+.musicPlayerBox{  padding: 10px; }
+
+.leftNav{
+  float: left;
+  width: 130px;
+  padding: 0 0 500px 0;
+  margin-top: -15px;
+  border-right: solid 1px gray;
+  background-color: #F2F2F2;
+  font-size: 12px;
+}
+
+.leftNav button{
+  padding: 10px 20px 10px 20px;
+  margin-top: 10px;
+}
+
+.leftNav h4{
+  margin-left: 10px;
+  font-size: 15px;
+}
+
+.musicCategory {
+  margin-left:  -20px;
+}
+
+.musicCategory li{
+  list-style: none;
+  margin: 3px 3px 3px 3px;
+}
+
+/*nav*/
+.detailCategory{
+  display: none;
+  margin-left: -20px;
+}
